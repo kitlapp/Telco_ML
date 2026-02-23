@@ -1,0 +1,15 @@
+name: bigdata_env
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - numpy
+  - pandas
+  - pymysql
+  - python=3.12
+  - seaborn
+  - jupyterlab
+  - scikit-learn
+  - pyarrow
+  - fastparquet
+prefix: C:\Users\Adespotos\anaconda3\envs\bigdata_env
