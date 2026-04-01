@@ -13,7 +13,7 @@ Feel free to explore all of our work at the links below:
 [Open in Google Colab](https://colab.research.google.com/drive/1hI99VIKLAjYfqQHvU-n6kGJgMjctGWgg?usp=sharing)
 
 ### 3) Churn Predictions using Random Forest and SVM (RBF)
-[Open in GitHub](https://github.com/kitlapp/Telco_ML/blob/yannos/telco_churn_rf_svm.ipynb)
+[Open in GitHub](https://github.com/kitlapp/Telco_ML/blob/main/telco_churn_rf_svm.ipynb)
 
 ### 4) Regression Predictions using Multiple Regression Algorithms
 [Open in Google Colab](https://colab.research.google.com/github/kitlapp/Telco_ML/blob/main/Regression_ML_Katerina.ipynb)
